@@ -1,7 +1,7 @@
-### Something about Bobosky (aka me lol)
+### Something about Bobosky
 
-- 🔭 I’m not working for any compamy (imma a high school student)
-- 🌱 Learning HTML & CSS | Ability to work on JS
+- 🥲 Interest-Based Developer | Grade 11 Student
+- 🌱 Self-Learning Java, HTML & CSS | Ability to work on JS
 
 ## Contact via
 - Discord: Bobosky#3914
