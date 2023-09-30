@@ -6,5 +6,5 @@
 - 🌱 Over 3 Years Experience on NodeJS
 
 ## Contact via
-- Discord: Bobosky#3914
+- Discord: @bobosky
 - Instagram: <a href=https://www.instagram.com/bobosky.p>@bobosky.p<a/>
